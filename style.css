@@ -66,3 +66,18 @@ h4 {
     font-weight: bold;
 }
 
+figure, figure.toc {
+    text-align: center;
+/*    margin: .75em 1.25em .75em 100;  */
+}
+
+figure.toc {
+    margin: 0em 4em 4em 4em;  */
+}
+
+figcaption {
+    color: #606;
+    font-style: italic;
+    text-align: center;
+    margin: 1em 1.25em .75em 20;
+}
